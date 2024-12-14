@@ -76,4 +76,4 @@ Selecciona la opción **7** para salir del programa. Se muestra un mensaje confi
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/currency-converter-service.git
+   https://github.com/Dannn117/Challenge2_ConversorDeMonedas.git
